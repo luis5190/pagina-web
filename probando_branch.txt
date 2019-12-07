@@ -1,1 +1,7 @@
 esto para probar branch
+<<<<<<< Updated upstream
+=======
+
+
+segundo branch
+>>>>>>> Stashed changes
